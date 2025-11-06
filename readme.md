@@ -1,10 +1,13 @@
-<h1 align="center">Wallet Management App</h1>
-
-### <p align="center">A Python app that helps a person to manage their expenses as well as view how much they have spent and where they have done it.</p>
+<h1 align="center">
+  $${\color{cyan}Wallet‎ Management‎ App}$$
+</h1>
+<h3 align="center">
+   $${\color{teal}A‎ simple‎ Python‎ application‎ to‎‎ manage‎ your‎ daily‎ expenses‎}$$
+</h3>
 
 <hr>
 
-## Database
+## $${\color{skyblue}Database}$$
 
 - It uses OpengreSQL for database operations.
 - There are 3 tables:
@@ -14,14 +17,14 @@
 
 <hr>
 
-## File IO
+## $${\color{skyblue}File IO}$$
 
 - It uses file handling to manage sessions so that every device can have one account in which they can stay logged in.
 - User can also export their purchase history to a text file.
 
 <hr>
 
-  ## UI
+  ## $${\color{skyblue}UI}$$
 
   - Input and Output in powershell terminal.
   - Uses ANSI escape codes to improve teminal UI
