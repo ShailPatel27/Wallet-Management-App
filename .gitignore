@@ -1,4 +1,4 @@
 .env
-clear_data
+clear_data.py
 test.py
 old.py
