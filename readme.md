@@ -1,8 +1,8 @@
 <h1 align="center">
-  $${\color{teal}Wallet‎ Management‎ App}$$
+  $${\color{teal}Wallet‎Management‎App}$$
 </h1>
 <h3 align="center">
-   $${\color{#159165}A‎ simple‎ Python‎ application‎ to‎‎ manage‎ your‎ daily‎ expenses‎}$$
+   $${\color{#159165}A‎simple‎Python‎application‎to‎manage‎your‎daily‎expenses}$$
 </h3>
 
 <hr>
