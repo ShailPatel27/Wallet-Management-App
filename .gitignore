@@ -2,3 +2,4 @@
 clear_data.py
 test.py
 old.py
+__pycache__

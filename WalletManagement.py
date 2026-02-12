@@ -2,7 +2,7 @@ import os
 import database
 import signupLogin
 
-with open("session.txt") as f:
+with open("./session.txt") as f:
     uid = f.read()
     
     if(uid == ""):
